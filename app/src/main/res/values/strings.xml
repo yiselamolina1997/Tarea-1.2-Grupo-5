@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Proyecto13</string>
+    <string name="tituloPersonas">Agenda de Personas</string>
+    <string name="labelAgregarContacto">Agregar Personas</string>
+    <string name="labelVerContactos">Ver Personas</string>
+    <string name="integrantes"> </string>
+    <string name="cuentas"> </string>
+    <string name="regresar">Regresar</string>
+    <string name="contentDescriptionImg">Imagen</string>
+    <string name="labelNombre">Ingrese el Nombre</string>
+    <string name="labelApellido">Ingrese el Apellido</string>
+    <string name="labelNumero">Agregue el Numero</string>
+    <string name="labelCorreo">Ingrese el Correo</string>
+    <string name="labelDireccion">Agregue la Direccion</string>
+    <string name="labelGuardar">Guardar</string>
+    <string name="labelEliminar">Eliminar</string>
+    <string name="labelActualizar">Actualizar</string>
+</resources>
